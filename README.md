@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
-https://camo.githubusercontent.com/41723df8321f657e64b89e6a0efcdeb2a3e826686b1695a8cde297672ea0ba46/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f656e676d6f686d6d61642f636f756e742e737667
 
 
 - 👋 Hi, I’m @ENG.Mohmmad
