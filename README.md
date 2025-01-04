@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eng.mohmmad
+- 👋 Hi, I’m @ENG.Mohmmad
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on  work and busniss
